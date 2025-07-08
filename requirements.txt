@@ -1,0 +1,25 @@
+# Core web frameworks
+fastapi
+uvicorn[standard]
+
+# Dashboard UI
+streamlit
+altair
+pandas
+
+# Microsoft Graph API
+requests
+python-dotenv
+
+# Google Sheets API
+gspread
+oauth2client
+
+# OpenAI GPT integration
+openai
+
+# Optional (for PDF handling, if needed)
+PyPDF2
+
+# Email parsing (optional if not used anymore)
+beautifulsoup4
